@@ -4,7 +4,6 @@
 | **Title** | **Field** | **Publication** | **Review** | **Source** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation | `RecSys` | `CIKM'23` | [Blog](https://ok-lab.tistory.com/341) | [Paper](https://arxiv.org/pdf/2311.13188.pdf) |
-
 | CL4CTR: A Contrastive Learning Framework for CTR Prediction | `RecSys` | `WSDM'23` | [Blog](https://ok-lab.tistory.com/275) | [Paper](https://arxiv.org/pdf/2212.00522.pdf) |
 | Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation | `RecSys` | `AAAI'23` | [Blog](https://ok-lab.tistory.com/266) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25537) |
 | LightGCL: Simple yet effective graph contrastive learning for recommendation | `RecSys` | `ICLR'23` | [Blog](https://ok-lab.tistory.com/270) | [Paper](https://arxiv.org/pdf/2302.08191.pdf) |
