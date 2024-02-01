@@ -5,33 +5,33 @@
 ## 2023 
 | **Title** | **Field** | **Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| UniMath: A Foundational and Multimodal Mathematical Reasoner | `NLP` | `EMNLP'23` | [Blog](https://ok-lab.tistory.com/343) | [Paper](https://aclanthology.org/2023.emnlp-main.440.pdf) | 
-| Diffusion Recommender Model | `RecSys` | `SIGIR'23` | [Blog](https://ok-lab.tistory.com/345) | [Paper](https://arxiv.org/pdf/2304.04971.pdf)
-| Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation | `RecSys` | `CIKM'23` | [Blog](https://ok-lab.tistory.com/341) | [Paper](https://arxiv.org/pdf/2311.13188.pdf) |
-| CL4CTR: A Contrastive Learning Framework for CTR Prediction | `RecSys` | `WSDM'23` | [Blog](https://ok-lab.tistory.com/275) | [Paper](https://arxiv.org/pdf/2212.00522.pdf) |
-| Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation | `RecSys` | `AAAI'23` | [Blog](https://ok-lab.tistory.com/266) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25537) |
-| LightGCL: Simple yet effective graph contrastive learning for recommendation | `RecSys` | `ICLR'23` | [Blog](https://ok-lab.tistory.com/270) | [Paper](https://arxiv.org/pdf/2302.08191.pdf) |
-| Scaling Law for Recommendation Models: Towards General-purpose User Representations | `RecSys` | `AAAI'23` | [Blog](https://ok-lab.tistory.com/272) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25582) |
-| Simplifying Graph-based Collaborative Filtering for Recommendation | `RecSys` | `WSDM'23` | [Blog](https://ok-lab.tistory.com/268) | [Paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570451) |
-| Unsupervised Model Selection for Time-Series Anomaly Detection | `Time Series` | `ICLR'23` | [Blog](https://ok-lab.tistory.com/286) | [Paper](https://arxiv.org/pdf/2210.01078.pdf) |
-| Learning Fair Graph Representations via Automated Data Augmentations | `Graph` | `ICLR'23` | [Blog](https://ok-lab.tistory.com/279) | [Paper](https://drive.google.com/file/d/1JrPoYuJCD0jluqEjvKNA74DgWXmUcgFa/view) |
-| Alleviating Structural Distribution Shift in Graph Anomaly Detection | `Graph` | `WSDM'23` | [Blog](https://ok-lab.tistory.com/290) | [Paper](http://staff.ustc.edu.cn/~hexn/papers/wsdm23-GDN.pdf) |
+| UniMath: A Foundational and Multimodal Mathematical Reasoner | `NLP` | `EMNLP` | [Blog](https://ok-lab.tistory.com/343) | [Paper](https://aclanthology.org/2023.emnlp-main.440.pdf) | 
+| Diffusion Recommender Model | `RecSys` | `SIGIR` | [Blog](https://ok-lab.tistory.com/345) | [Paper](https://arxiv.org/pdf/2304.04971.pdf)
+| Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation | `RecSys` | `CIKM` | [Blog](https://ok-lab.tistory.com/341) | [Paper](https://arxiv.org/pdf/2311.13188.pdf) |
+| CL4CTR: A Contrastive Learning Framework for CTR Prediction | `RecSys` | `WSDM` | [Blog](https://ok-lab.tistory.com/275) | [Paper](https://arxiv.org/pdf/2212.00522.pdf) |
+| Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation | `RecSys` | `AAAI` | [Blog](https://ok-lab.tistory.com/266) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25537) |
+| LightGCL: Simple yet effective graph contrastive learning for recommendation | `RecSys` | `ICLR` | [Blog](https://ok-lab.tistory.com/270) | [Paper](https://arxiv.org/pdf/2302.08191.pdf) |
+| Scaling Law for Recommendation Models: Towards General-purpose User Representations | `RecSys` | `AAAI` | [Blog](https://ok-lab.tistory.com/272) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25582) |
+| Simplifying Graph-based Collaborative Filtering for Recommendation | `RecSys` | `WSDM` | [Blog](https://ok-lab.tistory.com/268) | [Paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570451) |
+| Unsupervised Model Selection for Time-Series Anomaly Detection | `Time Series` | `ICLR` | [Blog](https://ok-lab.tistory.com/286) | [Paper](https://arxiv.org/pdf/2210.01078.pdf) |
+| Learning Fair Graph Representations via Automated Data Augmentations | `Graph` | `ICLR` | [Blog](https://ok-lab.tistory.com/279) | [Paper](https://drive.google.com/file/d/1JrPoYuJCD0jluqEjvKNA74DgWXmUcgFa/view) |
+| Alleviating Structural Distribution Shift in Graph Anomaly Detection | `Graph` | `WSDM` | [Blog](https://ok-lab.tistory.com/290) | [Paper](http://staff.ustc.edu.cn/~hexn/papers/wsdm23-GDN.pdf) |
 
 
 ## 2022
 | **Title** | **Field** | **Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy | `Time Series` | `ICLR'22` | [Blog](https://ok-lab.tistory.com/285) | [Paper](https://arxiv.org/pdf/2110.02642.pdf) |
-| Enhancing Sequential Recommendation with Graph Contrastive Learning | `RecSys` | `IJCAI'22` | [Blog](https://ok-lab.tistory.com/273) | [Paper](https://arxiv.org/pdf/2205.14837.pdf) |
-| Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation | `RecSys` | `SIGIR'22` | [Blog](https://ok-lab.tistory.com/247) | [Paper](https://arxiv.org/pdf/2112.08679.pdf) |
-| Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation | `RecSys` | `IJCAI'22` | [Blog](https://ok-lab.tistory.com/274) | [Paper](https://www.ijcai.org/proceedings/2022/0490.pdf) |
-| A Review-aware Graph Contrastive Learning Framework for Recommendation | `RecSys` | `SIGIR'22` | [Blog](https://ok-lab.tistory.com/254) | [Paper](https://arxiv.org/pdf/2204.12063.pdf) |
-| GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction | `RecSys` | `WWW'22` | [Blog](https://ok-lab.tistory.com/276) | [Paper](https://web.archive.org/web/20220430201147id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) |
-| STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation | `RecSys` | `WWW'22` | [Blog](https://ok-lab.tistory.com/277) | [Paper](https://web.archive.org/web/20220428044030id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512041) |
-| A Unified Model for Multi-class Anomaly Detection | `CV` | `NIPS'22` | [Blog](https://ok-lab.tistory.com/282) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1d774c112926348c3e25ea47d87c835b-Paper-Conference.pdf) |
-| Perturbation Learning Based Anomaly Detection | `CV` | `NIPS'22` | [Blog](https://ok-lab.tistory.com/283) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/5c261ccdc44fbd32fbb344fa578a1844-Paper-Conference.pdf) |
-| Anomaly Detection via Reverse Distillation from One-Class Embedding | `CV` | `CVPR'22` | [Blog](https://ok-lab.tistory.com/288) | [Paper](https://arxiv.org/pdf/2201.10703.pdf) |
-| Model Degradation Hinders Deep Graph Neural Networks | `Graph` | `KDD'22` | [Blog](https://ok-lab.tistory.com/246) | [Paper](https://arxiv.org/pdf/2206.04361.pdf) |
+| Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy | `Time Series` | `ICLR` | [Blog](https://ok-lab.tistory.com/285) | [Paper](https://arxiv.org/pdf/2110.02642.pdf) |
+| Enhancing Sequential Recommendation with Graph Contrastive Learning | `RecSys` | `IJCAI` | [Blog](https://ok-lab.tistory.com/273) | [Paper](https://arxiv.org/pdf/2205.14837.pdf) |
+| Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation | `RecSys` | `SIGIR` | [Blog](https://ok-lab.tistory.com/247) | [Paper](https://arxiv.org/pdf/2112.08679.pdf) |
+| Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation | `RecSys` | `IJCAI` | [Blog](https://ok-lab.tistory.com/274) | [Paper](https://www.ijcai.org/proceedings/2022/0490.pdf) |
+| A Review-aware Graph Contrastive Learning Framework for Recommendation | `RecSys` | `SIGIR` | [Blog](https://ok-lab.tistory.com/254) | [Paper](https://arxiv.org/pdf/2204.12063.pdf) |
+| GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction | `RecSys` | `WWW` | [Blog](https://ok-lab.tistory.com/276) | [Paper](https://web.archive.org/web/20220430201147id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) |
+| STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation | `RecSys` | `WWW` | [Blog](https://ok-lab.tistory.com/277) | [Paper](https://web.archive.org/web/20220428044030id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512041) |
+| A Unified Model for Multi-class Anomaly Detection | `CV` | `NIPS` | [Blog](https://ok-lab.tistory.com/282) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1d774c112926348c3e25ea47d87c835b-Paper-Conference.pdf) |
+| Perturbation Learning Based Anomaly Detection | `CV` | `NIPS` | [Blog](https://ok-lab.tistory.com/283) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/5c261ccdc44fbd32fbb344fa578a1844-Paper-Conference.pdf) |
+| Anomaly Detection via Reverse Distillation from One-Class Embedding | `CV` | `CVPR` | [Blog](https://ok-lab.tistory.com/288) | [Paper](https://arxiv.org/pdf/2201.10703.pdf) |
+| Model Degradation Hinders Deep Graph Neural Networks | `Graph` | `KDD` | [Blog](https://ok-lab.tistory.com/246) | [Paper](https://arxiv.org/pdf/2206.04361.pdf) |
 
 ## ~ 2021
 | **Title** | **Field** | **Publication** | **Review** | **Source** |
